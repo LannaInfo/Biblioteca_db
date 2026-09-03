@@ -13,3 +13,6 @@ conn.executemany("INSERT INTO usuarios(nome) VALUES(?)",
 
 conn.commit()
 
+
+
+
